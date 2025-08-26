@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("desafioNubank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41eb04a40dbe6fd20d00e97e1140065814c72ddc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0242c75c05e3e0f515c37de587afe71d986afba5")]
 [assembly: System.Reflection.AssemblyProductAttribute("desafioNubank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("desafioNubank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
